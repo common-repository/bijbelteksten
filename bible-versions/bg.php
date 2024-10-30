@@ -1,0 +1,46 @@
+<?
+$bible_versions[] = Array("value" => '',		"type" => 1, "text" => __('Engels (EN)', 'bverse-convert'));
+#$bible_versions[] = Array("value" => 'KJ21',	"type" => 0, "text" => __('21st Century King James Version'));
+#$bible_versions[] = Array("value" => 'ASV',		"type" => 0, "text" => __('American Standard Version'));
+#$bible_versions[] = Array("value" => 'AMP',		"type" => 0, "text" => __('Amplified Bible (AMP)'));
+#$bible_versions[] = Array("value" => 'AMPC',	"type" => 0, "text" => __('Amplified Bible (AMPC)'));
+#$bible_versions[] = Array("value" => 'CEV',		"type" => 0, "text" => __('Contemporary English Version'));
+#$bible_versions[] = Array("value" => 'DARBY',	"type" => 0, "text" => __('Darby Translation'));
+$bible_versions[] = Array("value" => 'ESV',		"type" => 0, "text" => __('English Standard Version'));
+#$bible_versions[] = Array("value" => 'HCSB',	"type" => 0, "text" => __('Holman Christian Standard Bible'));
+$bible_versions[] = Array("value" => 'KJV',		"type" => 0, "text" => __('King James Version'));
+#$bible_versions[] = Array("value" => 'NASB',	"type" => 0, "text" => __('New American Standard Bible'));
+#$bible_versions[] = Array("value" => 'NCV',		"type" => 0, "text" => __('New Century Version'));
+#$bible_versions[] = Array("value" => 'NIRV',	"type" => 0, "text" => __('New International Reader\'s Version'));
+#$bible_versions[] = Array("value" => 'NIV',		"type" => 0, "text" => __('New International Version'));
+#$bible_versions[] = Array("value" => 'NIVUK',	"type" => 0, "text" => __('New International Version - UK'));
+#$bible_versions[] = Array("value" => 'NKJV',	"type" => 0, "text" => __('New King James Version'));
+#$bible_versions[] = Array("value" => 'NLT',		"type" => 0, "text" => __('New Living Translation'));
+#$bible_versions[] = Array("value" => 'MSG',		"type" => 0, "text" => __('The Message'));
+#$bible_versions[] = Array("value" => 'WE',		"type" => 0, "text" => __('Worldwide English (New Testament)'));
+#$bible_versions[] = Array("value" => 'WNT',		"type" => 0, "text" => __('Wycliffe New Testament'));
+#$bible_versions[] = Array("value" => 'YLT',		"type" => 0, "text" => __('Young\'s Literal Translation'));
+
+#$bible_versions[] = Array("value" => '',		"type" => 1, "text" => __('Spanish (ES)', 'bverse-convert'));
+#$bible_versions[] = Array("value" => 'DHH',		"type" => 0, "text" => __('Dios Habla Hoy'));
+#bible_versions[] = Array("value" => 'JBS',		"type" => 0, "text" => __('Jubilee Bible 2000 (Español)'));
+#bible_versions[] = Array("value" => 'LBLA',	"type" => 0, "text" => __('La Biblia de las Américas'));
+#$bible_versions[] = Array("value" => 'BLP',		"type" => 0, "text" => __('La Palabra (España)'));
+#$bible_versions[] = Array("value" => 'BLPH',	"type" => 0, "text" => __('La Palabra (Hispanoamérica)'));
+#$bible_versions[] = Array("value" => 'NBD',		"type" => 0, "text" => __('Nueva Biblia al Día'));
+#$bible_versions[] = Array("value" => 'NBLH',	"type" => 0, "text" => __('Nueva Biblia Latinoamericana de Hoy'));
+#$bible_versions[] = Array("value" => 'TLA',		"type" => 0, "text" => __('Traducción en Lenguaje Actual'));
+#$bible_versions[] = Array("value" => 'NTV',		"type" => 0, "text" => __('Nueva Traducción Viviente'));
+#$bible_versions[] = Array("value" => 'CST',		"type" => 0, "text" => __('Nueva Versión Internacional (Castilian)'));
+#$bible_versions[] = Array("value" => 'NVI',		"type" => 0, "text" => __('Nueva Versión Internacional'));
+#$bible_versions[] = Array("value" => 'PDT',		"type" => 0, "text" => __('Palabra de Dios para Todos'));
+#$bible_versions[] = Array("value" => 'RVA2015',	"type" => 0, "text" => __('Reina Valera Actualizada'));
+#$bible_versions[] = Array("value" => 'RVC',		"type" => 0, "text" => __('Reina Valera Contemporánea'));
+#$bible_versions[] = Array("value" => 'RVR1960',	"type" => 0, "text" => __('Reina-Valera 1960'));
+#$bible_versions[] = Array("value" => 'RVR1977',	"type" => 0, "text" => __('Reina Valera 1977'));
+#$bible_versions[] = Array("value" => 'RVR1995',	"type" => 0, "text" => __('Reina-Valera 1995'));
+#$bible_versions[] = Array("value" => 'RVA',		"type" => 0, "text" => __('Reina-Valera Antigua'));
+#$bible_versions[] = Array("value" => 'SRV-BRG',	"type" => 0, "text" => __('Spanish Blue Red and Gold Letter Edition'));
+
+$bible_versions[] = Array("value" => '',		"type" => 1, "text" => __('Nederlands (NL)', 'bverse-convert'));
+$bible_versions[] = Array("value" => 'NBG51',	"type" => 0, "text" => __('NBG 1951-vertaling'));
